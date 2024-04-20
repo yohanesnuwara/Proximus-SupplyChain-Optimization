@@ -1,4 +1,4 @@
-# Inventory Cost Optimization & Demand Forecasting of Proximus Ada's Mobile Devices Service Management (MDSM) Supply Chain
+# Inventory Cost Optimization & Demand Forecasting of Proximus Ada's Mobile Devices Shop Distribution (MDSD) Supply Chain
 
 > This proposal is announced as the 2nd best (runner-up) winning solution of our Hackathon Project with Proximus Ada at Vlerick Business School, Leuven, Belgium, from 8-12 April 2024. My team consists of Jean-Louis Swart and Aizaz Ali Khan. Myself represented Politecnico di Milano Graduate School of Management.
 
@@ -10,3 +10,9 @@ The mobile devices shop at Proximus need to overcome problem related to understo
 
 ## Summary of results
 
+## Future improvement
+
+* Distribution model to each shops
+* Policy Evaluation carried out per week
+* Policy model taking the product lifecycle into consideration (Launch, Maturity, End-of-life phase)
+* Improve these processes with Reinforcement learning
