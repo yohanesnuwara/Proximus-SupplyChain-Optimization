@@ -14,5 +14,5 @@ The mobile devices shop at Proximus need to overcome problem related to understo
 
 * Distribution model to each shops
 * Policy Evaluation carried out per week
-* Policy model taking the product lifecycle into consideration (Launch, Maturity, End-of-life phase)
+* Policy model taking the product lifecycle into consideration (Launch, Maturity, End-of-life/EOL phase): the idea that our team proposed is giving different Restock with respect to where the product phase is currently at e.g. multiply 2 restocks when product is launching phase, multiply 3 when maturity, and no multiply when EOL. But because time of hackathon was limited, we did not execute this idea
 * Improve these processes with Reinforcement learning
