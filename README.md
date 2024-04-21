@@ -10,6 +10,14 @@ The mobile devices shop at Proximus need to overcome problem related to understo
 
 ## Summary of results
 
+The ARIMAX model that we developed for forecasting the demand of each product increased the existing forecasting model. For example, the following shows comparison between existing forecast and our forecast of iPhone 14 devices, with R2 score improvement from -0.935 to 0.546. 
+
+![image](https://github.com/yohanesnuwara/Proximus-SupplyChain-Optimization/assets/51282928/6159e706-84fc-458b-abeb-4261305761e8)
+
+The following is comparison of plot of demand, stock, sales, and inventory of iPhone 14 at a particular shop between the dummy policy and our proposed Demand-anticipating policy. The dummy policy cannot avoid the stock-out (marked with red circle) while our policy can minimize stock-out. Also, the inventory action is lower than dummy and shows a decline trend that follows the decline EOL phase. Result of cost using dummy policy is $197,517 while using our policy is significantly less, $86,935.
+
+![image](https://github.com/yohanesnuwara/Proximus-SupplyChain-Optimization/assets/51282928/0306af14-656c-42c8-90c8-14ea8c6c61af)
+
 ## Future improvement
 
 * Distribution model to each shops
